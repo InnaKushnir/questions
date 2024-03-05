@@ -19,6 +19,7 @@ click-plugins==1.1.1
 click-repl==0.2.0
 colorama==0.4.6
 dataclasses-json==0.6.4
+distro==1.9.0
 Django==4.1.7
 django-appconf==1.0.6
 django-celery-beat==2.4.0
@@ -71,6 +72,7 @@ multidict==6.0.4
 mypy-extensions==1.0.0
 ngrok==0.2.2
 numpy==1.26.4
+openai==1.13.3
 orjson==3.9.15
 packaging==23.2
 pathspec==0.11.0
@@ -82,6 +84,8 @@ pydantic==2.6.3
 pydantic_core==2.16.3
 pyflakes==3.0.1
 PyJWT==2.6.0
+PyPDF2==3.0.1
+pypdfium2==4.27.0
 pyrsistent==0.19.3
 pyTelegramBotAPI==4.10.0
 python-crontab==2.7.1
@@ -102,6 +106,7 @@ sqlparse==0.4.3
 stripe==5.2.0
 telegram-send==0.34
 tenacity==8.2.3
+tqdm==4.66.2
 typing-inspect==0.9.0
 typing_extensions==4.8.0
 tzdata==2022.7
